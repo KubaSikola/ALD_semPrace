@@ -12,4 +12,4 @@ Uchovává konstanty pro program (počet generovaných dlaždic, velikost dlažd
 Načítá jednotlivé typy dlaždic a rozděluje je do listů.
 ## Algoritmus
 Program pracuje se 13 různými typy dlaždic
-![alt text](/res/tiles.png)
+!(/res/tiles.png)
