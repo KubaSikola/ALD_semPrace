@@ -11,5 +11,6 @@ Uchovává konstanty pro program (počet generovaných dlaždic, velikost dlažd
 ### TileStorage
 Načítá jednotlivé typy dlaždic a rozděluje je do listů.
 ## Algoritmus
-Program pracuje se 13 různými typy dlaždic
+Program pracuje se 13 různými typy dlaždic.
 <p><img align="center" width="400" height="400" src="/res/tiles.png"></p>
+Po spuštění programu se dlaždice rozdělí do osmy různých listů, podle toho zda v daném směru obsahují trubku nebo ne.
